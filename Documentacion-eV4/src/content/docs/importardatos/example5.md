@@ -1,11 +1,10 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: Dar de alta a un cliente
+description: Dar alta al cliente
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+En este tutorial te mostramos como ingresar el **alta de un cliente en forma manual**. Para conocer el procedimiento de alta masiva de clientes ver "Importar desde Ficheros Excel".
 
-## Further reading
+![](../../../assets/importardatos/1.png)
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+![](../../../assets/importardatos/2.png)
