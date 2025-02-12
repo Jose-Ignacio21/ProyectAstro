@@ -1,11 +1,16 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: Importar ficheros desde Excel
+description: Importar ficheros
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+Detallamos como importar datos (articulos, clientes, proveedores, etc) desde un fichero excel a eV4. (Utilizar el fichero modelo entregado por Soporte)
 
-## Further reading
+![Primera imagen](../../../assets/importardatos/importarexcel1.png)
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+![Segunda imagen](../../../assets/importardatos/importarexcel2.png)
+
+![Tercera imagen](../../../assets/importardatos/importarexcel3.png)
+
+![Cuarta imagen](../../../assets/importardatos/importarexcel4.png)
+
+![Quinta imagen](../../../assets/importardatos/importarexcel5.png)
