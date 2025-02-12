@@ -80,5 +80,5 @@ La generación y seguimiento de presupuestos en el CRM de eV4 es un proceso senc
 
 ## Lecturas Recomendadas
 
-- [Primeros Pasos en el Módulo CRM de eV4](../1_configurar_crm.md)
+- [Primeros Pasos en el Módulo CRM de eV4](../01_configurar_crm.md)
 - [Gestión de Oportunidades y Leads en eV4](#)
