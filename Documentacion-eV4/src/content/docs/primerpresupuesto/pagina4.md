@@ -1,6 +1,6 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: Gestion de leads en el modulo CRM de eV4
+description: Creacion de un presupuesto
 ---
 
 Reference pages are ideal for outlining how things work in terse and clear terms.
