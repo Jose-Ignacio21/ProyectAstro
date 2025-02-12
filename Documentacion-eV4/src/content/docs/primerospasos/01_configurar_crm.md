@@ -82,4 +82,4 @@ Una configuración adecuada del módulo CRM de eV4 te permite gestionar leads y 
 ## Lecturas Recomendadas
 
 - [Gestión de Oportunidades en eV4 ERP](#)
-- [Generación y Seguimiento de Presupuestos en el Módulo CRM de eV4](#)
+- [Generación y Seguimiento de Presupuestos en el Módulo CRM de eV4](../3_generacion_crm.md)
