@@ -2,7 +2,7 @@
 title: Generación y Seguimiento de Presupuestos en el Módulo CRM de eV4
 ---
 
-# Módulo: CRM (Presupuestos)
+#### Módulo: CRM (Presupuestos)
 
 El módulo CRM de eV4 no solo te permite gestionar leads y oportunidades, sino que también te ofrece una herramienta completa para la generación y seguimiento de presupuestos. Este proceso es clave para convertir leads en ventas, ya que un presupuesto bien gestionado puede ser la diferencia entre ganar o perder una oportunidad. Además, el sistema facilita el seguimiento de presupuestos en cada fase del ciclo de ventas, asegurando una gestión eficiente y organizada.
 
@@ -80,5 +80,5 @@ La generación y seguimiento de presupuestos en el CRM de eV4 es un proceso senc
 
 ## Lecturas Recomendadas
 
-- [Primeros Pasos en el Módulo CRM de eV4](#)
+- [Primeros Pasos en el Módulo CRM de eV4](../01_configurar_crm.md)
 - [Gestión de Oportunidades y Leads en eV4](#)
