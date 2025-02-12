@@ -45,6 +45,6 @@ description: Creacion de un presupuesto
 - Es posible generar presupuestos para varios vehículos a la vez.
 
 ## Recursos adicionales
-- Consulte la sección **"Creación de un nuevo vehículo con packs opcionales"** para obtener más información sobre la configuración de packs opcionales.
+- Consulte la sección **[Creación de un nuevo vehículo con packs opcionales](http://localhost:4321/primerpresupuesto/pagina7/)** para obtener más información sobre la configuración de packs opcionales.
 - Revise la documentación del sistema para obtener información detallada sobre la gestión de presupuestos.
 
