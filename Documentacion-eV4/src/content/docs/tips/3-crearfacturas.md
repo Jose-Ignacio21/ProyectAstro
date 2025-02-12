@@ -9,9 +9,15 @@ Hemos hecho la primera venta. Ahora vamos a realizar la primera factura.
 
 La forma más rápida de crear una factura es pulsar el botón **AÑADIR** (botón azul en la barra superior derecha) y posteriormente pulsar el botón **NUEVA FACTURA**.  
 
+![Imagen01](../../../assets/tips/Factura01.png)
+
 También podemos crear una factura accediendo a la ruta: **VENTAS → FACTURAS**.  
 
+![Imagen02](../../../assets/tips/Factura02.png)
+
 Pulsamos el botón **NUEVO**, y se cargará en pantalla el formulario donde podemos crear la factura.  
+
+![Imagen03](../../../assets/tips/Factura03.png)
 
 ## Completar la Factura  
 
