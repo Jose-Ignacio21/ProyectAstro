@@ -19,8 +19,8 @@ Podemos introducir un **código de referencia** por línea y usar el operador **
 MDU46531*5  → (obtendremos 5 etiquetas)  
 MDU46532    → (obtendremos 1 etiqueta)
 
-![]()
+![](../../../assets/articulos/barras1.png)
 
 El resultado sería el mostrado en la siguiente imagen dándonos. Además, tenemos la posibilidad de imprimirlas. 
 
-![]()
+![](../../../assets/articulos/barras2.png)
