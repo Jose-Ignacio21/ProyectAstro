@@ -1,5 +1,5 @@
 ---
-title: PROVEEDORES
+title: Proveedores
 description: Listado de los proveedores a los que se les solicitan los productos con los que se comercializa en la empresa.
 ---
 

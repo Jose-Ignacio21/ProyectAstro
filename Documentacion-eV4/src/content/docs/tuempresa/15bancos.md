@@ -1,5 +1,5 @@
 ---
-title: BANCO
+title: Banco
 description: eV4 te permite conectar con tu banco para consultar tus movimientos bancarios. eV4 solo tiene acceso a sus datos bancarios en modo lectura, es decir, solo puede consultar dichos datos.
 ---
 

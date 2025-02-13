@@ -95,5 +95,5 @@ La agenda del CRM de eV4 es una herramienta poderosa para la planificación y se
 
 ## Lecturas Recomendadas
 
-- [Primeros Pasos en el Módulo CRM de eV4](../01_configurar_crm.md)
-- [Gestión de Leads y Oportunidades en eV4 ERP](#)
+- [Primeros Pasos en el Módulo CRM de eV4](../01_configurar_crm)
+- [Gestión de Leads y Oportunidades en eV4 ERP](../../primerpresupuesto/pagina4)
