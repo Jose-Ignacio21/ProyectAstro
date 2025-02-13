@@ -1,5 +1,5 @@
 ---
-title: GESTIÓN DE LEADS EN EL MÓDULO CRM DE EV4
+title: Gestión de leads en el módulo CRM de eV4
 description: El módulo CRM de eV4 permite gestionar leads (oportunidades de negocio) de manera eficiente, ya sea generándolos automáticamente desde formularios web o creándolos manualmente como oportunidades.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: ALMACENES
+title: Almacenes
 description: almacenes.
 ---
 

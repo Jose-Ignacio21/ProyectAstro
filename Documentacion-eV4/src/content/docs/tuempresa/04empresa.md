@@ -1,5 +1,5 @@
 ---
-title: EMPRESA
+title: Empresa
 description: En esta sección tenemos la lista de empresas disponible. También podemos crear nuevas empresas si fuera necesario.
 ---
 

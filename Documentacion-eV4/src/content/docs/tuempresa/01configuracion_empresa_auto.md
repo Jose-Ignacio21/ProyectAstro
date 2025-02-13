@@ -1,5 +1,5 @@
 ---
-title: CONFIGURACIÓN DE EMPRESA / AUTÓNOMO
+title: Configuración de Empresa / Autónomo
 description: Aquí te mostramos como completar los datos de tu empresa junto a la configuración de plantillas de documentos (pedido, albarán, factura) para comenzar a gestionar tu empresa con ev4.
 ---
 Aquí te mostramos cómo completar los datos de tu empresa junto a la configuración de plantillas de documentos (pedido, albarán, factura) para comenzar a gestionar tu empresa con ev4.

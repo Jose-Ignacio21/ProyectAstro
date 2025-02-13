@@ -1,5 +1,5 @@
 ---
-title: INTEGRACIÓN DE MAILCHIP
+title: Integración de Mailchip
 description: Tutorial paso a paso para activar Mailchimp y obtener tu API Key.
 ---
 

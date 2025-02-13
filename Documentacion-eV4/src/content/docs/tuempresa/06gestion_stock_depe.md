@@ -1,5 +1,5 @@
 ---
-title: GESTIÓN DE STOCKS Y DEPENDENCIAS EN EV4
+title: Gestión de stocks y dependencias en eV4
 description: La funcionalidad de Dependencias de stock en EV4 es una herramienta poderosa para manejar inventarios de productos genéricos que se venden bajo diferentes referencias o nombres. A continuación, se explica en detalle cómo funciona esta característica y se proporciona un ejemplo basado en la configuración mostrada en la imagen.
 ---
 

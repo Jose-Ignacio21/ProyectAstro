@@ -1,5 +1,5 @@
 ---
-title: EMPLEADOS
+title: Empleados
 description: empleados.
 ---
 

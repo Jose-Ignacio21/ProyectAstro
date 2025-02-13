@@ -1,5 +1,5 @@
 ---
-title: PRIMEROS PASOS PARA CONFIGURAR EL MÓDULO CRM EN EV4
+title: Primeros pasos para configurar el módulo CRM en eV4
 description: El módulo CRM de eV4 ERP es una herramienta potente para gestionar contactos, leads y oportunidades de negocio de manera eficiente.
 ---
 

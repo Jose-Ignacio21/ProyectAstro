@@ -1,5 +1,5 @@
 ---
-title: CONFIGURACIÓN INICIAL EMPRESA
+title: Configuración inicial de la empresa
 description: empresa.
 ---
 

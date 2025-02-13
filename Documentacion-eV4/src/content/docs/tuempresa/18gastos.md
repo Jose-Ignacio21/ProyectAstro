@@ -1,5 +1,5 @@
 ---
-title: GASTOS
+title: Gastos
 description: Gastos.
 ---
 

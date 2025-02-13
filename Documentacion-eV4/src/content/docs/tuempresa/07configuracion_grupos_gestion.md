@@ -1,5 +1,5 @@
 ---
-title: CONFIGURACIÓN DE GRUPOS DE GESTIÓN PARA ARTICULOS
+title: Configuración de grupos de gestión para articulos
 description: Los Grupos de Gestión en eV4 ERP permiten clasificar y gestionar artículos según sus características específicas. Esta opción es especialmente útil en verticales como concesionarios y alquileres, donde los artículos requieren configuraciones más complejas.
 ---
 

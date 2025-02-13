@@ -1,5 +1,5 @@
 ---
-title: FACTURAS DE VENTAS TPV
+title: Facturas de ventas TPV
 description: El TPV es el panel para gestionar la venta en el propio local de la empresa hacia un cliente de manera fácil y sencilla.
 ---
 

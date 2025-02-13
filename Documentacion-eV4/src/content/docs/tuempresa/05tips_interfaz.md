@@ -1,5 +1,5 @@
 ---
-title: INTERFAZ
+title: Interfaz
 description: Nuestro software te permitirá gestionar tu negocio de una forma más eficiente. Vamos a conocer de manera rápida la interface de eV4ERP.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: PRUEBA BANCOS
+title: Prueba bancos
 description: En este apartado encontramos la lista de los distintos bancos con los que la empresa trabaja, ya sea para gestión de las cuentas de la empresa u otras gestiones que esta requiera..
 ---
 

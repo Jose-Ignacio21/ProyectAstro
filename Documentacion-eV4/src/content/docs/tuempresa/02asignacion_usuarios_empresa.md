@@ -1,5 +1,5 @@
 ---
-title: ASIGNACIÓN USUARIOS EMPRESA
+title: Asignación de usuarios empresa
 description: En esta sección podemos consultar la lista de USUARIOS que se han creado en el sistema y ver a qué empresa está asignado.
 ---
 

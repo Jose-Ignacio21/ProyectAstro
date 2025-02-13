@@ -1,5 +1,5 @@
 ---
-title: FACTURAS-VENTAS
+title: Facturas-ventas
 description: facturas.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: EMPLEADOS-CONTRATOS
+title: Empleados-contratos
 description: En la pestaña contratos, encontramos los contratos realizados a un empleado a lo largo de su vida laboral en la empresa.
 
 ---

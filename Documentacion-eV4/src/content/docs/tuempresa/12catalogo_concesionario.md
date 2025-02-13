@@ -1,5 +1,5 @@
 ---
-title: CATÁLOGO-CONCESIONARIOS
+title: Catálogo-concesionarios
 description: El **Catálogo de EV4** es una herramienta esencial para la gestión de vehículos, artículos, opcionales, packs y servicios dentro de la plataforma EV4. Funciona como una base de datos centralizada que organiza y almacena toda la información sobre los elementos gestionados por la empresa.
 ---
 

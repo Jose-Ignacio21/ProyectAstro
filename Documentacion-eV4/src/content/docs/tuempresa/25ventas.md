@@ -1,5 +1,5 @@
 ---
-title: VENTAS
+title: Ventas
 description: ventas.
 ---
 

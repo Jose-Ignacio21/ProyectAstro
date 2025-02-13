@@ -1,8 +1,7 @@
 ---
 title: Remesas
-description: Una remesa es básicamente un documento para poder liquidar una compraventa de cualquier tipo de mercancía. Es un documento financiero por el que damos la orden a nuestro banco para que proceda a gestionar el cobro o pago de esa compraventa que hemos realizado. 
+description: Una remesa es básicamente un documento para poder liquidar una compraventa de cualquier tipo de mercancía.
 ---
-
 #### Remesas
 
 Una remesa es básicamente un documento para poder liquidar una compraventa de cualquier tipo de mercancía. Es un documento financiero por el que damos la orden a nuestro banco para que proceda a gestionar el cobro o pago de esa compraventa que hemos realizado. Es decir, es un archivo por el que se entregan uno o varios conjuntos de recibos a nuestra entidad bancaria, y así, ésta, gestiona el cobro de todos los documentos que le estamos pidiendo.

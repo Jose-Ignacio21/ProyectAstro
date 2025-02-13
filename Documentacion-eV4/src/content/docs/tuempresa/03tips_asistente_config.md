@@ -1,5 +1,5 @@
 ---
-title: TIPS ASISTENTE CONFIGURACIÓN
+title: Tips asistente de configuración
 description: El asistente de configuración inicial nos permite configurar los aspectos básicos del sistema en ocho pasos de una manera rápida y sencilla.
 ---
 

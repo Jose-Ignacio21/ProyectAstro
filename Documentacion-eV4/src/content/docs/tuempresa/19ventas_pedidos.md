@@ -1,5 +1,5 @@
 ---
-title: PEDIDOS
+title: Pedidos
 description: PEDIDOS.
 ---
 

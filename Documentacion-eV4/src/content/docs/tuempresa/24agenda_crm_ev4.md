@@ -1,5 +1,5 @@
 ---
-title: USO DE LA AGENDA EN EL CRM DE eV4 Y GESTIÓN DE COLORES
+title: Uso de la agenda en el CRM de eV4 y gestión de colores
 description: La Agenda en el CRM de eV4 es una herramienta clave para organizar y hacer seguimiento de las actividades relacionadas con leads, oportunidades y presupuestos.
 ---
 
