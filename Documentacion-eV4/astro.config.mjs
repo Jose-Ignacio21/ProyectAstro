@@ -10,9 +10,6 @@ export default defineConfig({
 			logo: {
 				src: './src/assets/logo-ev4.webp',
 			},
-			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
 			sidebar: [
 				{
 					label: 'Primeros pasos',
