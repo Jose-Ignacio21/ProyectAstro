@@ -1,6 +1,6 @@
 ---
 title: Descuentos
-description: En este apartado podemos consultar las **tarjetas regalo** que hay emitidas, así como crear nuevas.
+description: descuentos.
 ---
 
 Para crear un descuento nuevo, tenemos que pulsar en el botón **nuevo**, lo que nos mostrará una pantalla con un formulario a cumplimentar para añadir un nuevo tipo de descuento a nuestro sistema. Los campos a completar son los siguientes:

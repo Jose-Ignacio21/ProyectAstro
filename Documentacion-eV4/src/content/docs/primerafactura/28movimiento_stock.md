@@ -1,6 +1,6 @@
 ---
 title: Movimientos de Stock
-description: Una remesa es básicamente un documento para poder liquidar una compraventa de cualquier tipo de mercancía.
+description: stocks.
 ---
 
 ### Stock
