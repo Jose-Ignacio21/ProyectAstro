@@ -1,5 +1,5 @@
 ---
-title: Movimientos. Traspasos de centrar a empresa
+title: Movimientos. Traspasos de central a empresa
 
 description: Movimientos
 ---
