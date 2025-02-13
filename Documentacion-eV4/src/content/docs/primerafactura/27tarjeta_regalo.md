@@ -1,6 +1,6 @@
 ---
 title: Tarjetas regalo
-description: En este apartado podemos consultar las **tarjetas regalo** que hay emitidas, así como crear nuevas.
+description: En este apartado podemos consultar las tarjetas regalo que hay emitidas, así como crear nuevas.
 ---
 
 En este apartado podemos consultar las **tarjetas regalo** que hay emitidas, así como crear nuevas.
