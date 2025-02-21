@@ -48,6 +48,13 @@ export default defineConfig({
 					autogenerate: { directory: 'contabilidad' },
 				},
 			],
+			defaultLocale: "es",
+			locales: {
+			es: {
+				label: "Español",
+				lang: "es"
+			}
+			}
 		}),
 	],
 });
